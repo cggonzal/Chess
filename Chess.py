@@ -942,7 +942,7 @@ def run(width=300, height=300): # run function taken from lecture notes, slightl
     root.mainloop()  # blocks until window is closed
     print("bye!")
 
-run(700, 700)
+run(600, 600)
 
 """
 Mini max citations:
